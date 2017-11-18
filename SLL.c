@@ -171,7 +171,8 @@ void recrev(struct node *p){
 }
 
 int main()
-{
+{   
+    //Checking each function
     insert(10);
     insert(20);
     insert(30);
